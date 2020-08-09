@@ -1,0 +1,5 @@
+src/test/resources/backup
+target/
+.project
+.classpath
+/bin/
